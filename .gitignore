@@ -1,0 +1,3 @@
+#OS files to ignore
+[Tt]humbs.db
+*.DS_Store
